@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/RLoggerLibrary.iml" filepath="$PROJECT_DIR$/RLoggerLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/rlogger/rlogger.iml" filepath="$PROJECT_DIR$/rlogger/rlogger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rloggerlib/rloggerlib.iml" filepath="$PROJECT_DIR$/rloggerlib/rloggerlib.iml" />
     </modules>
   </component>
 </project>
