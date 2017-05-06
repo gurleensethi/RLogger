@@ -1,4 +1,4 @@
-package com.example.rlogger;
+package com.thetechnocafe.rlogger;
 
 /**
  * Created by gurleen on 4/5/17.

@@ -3,8 +3,9 @@ package com.example.gurleen.rloggerlibrary;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.example.rlogger.LogType;
-import com.example.rlogger.RLogger;
+import com.thetechnocafe.rlogger.LogType;
+import com.thetechnocafe.rlogger.RLogger;
+
 
 public class MainActivity extends AppCompatActivity {
 

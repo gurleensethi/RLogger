@@ -1,1 +1,1 @@
-include ':app', ':rlogger'
+include ':app', ':rloggerlib', ':rlogger'

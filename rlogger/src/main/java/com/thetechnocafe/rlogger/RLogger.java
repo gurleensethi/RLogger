@@ -1,4 +1,4 @@
-package com.example.rlogger;
+package com.thetechnocafe.rlogger;
 
 import android.util.Log;
 
